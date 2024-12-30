@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Diendev -->
 <a href="#" target="_blank">
-  <img src="svg/diendev1.svg" width="1200" alt="diendev1-official" />
+  <img src="svg/diendev.svg" width="1200" alt="diendev1-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
