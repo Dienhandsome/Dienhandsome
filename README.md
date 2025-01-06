@@ -21,25 +21,22 @@
 
 
 <!-- GitHub Stats -->
-<a href="https://github.com/Dienhandsome" title="Dienhandsome" class="mx-2">
-  <img width="434" 
-       src="https://github-readme-stats.vercel.app/api?username=Dienhandsome&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
-       alt="GitHub Stats" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Dienhandsome" title="Dienhandsome" class="mx-2">
+    <img width="434" 
+         src="https://github-readme-stats.vercel.app/api?username=Dienhandsome&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+         alt="GitHub Stats" />
+  </a>
 
-<!-- Streak Stats -->
-<a href="https://github.com/Dienhandsome" title="Dienhandsome" class="mx-2">
-  <img width="434" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=Dienhandsome&theme=tokyonight&hide_border=false" 
-       alt="GitHub Streak Stats" />
-</a>
+  <!-- Top Languages -->
+  <a href="https://github.com/Dienhandsome" title="Top Languages" class="mx-2">
+    <img width="434" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dienhandsome&layout=compact&theme=tokyonight&hide_border=false" 
+         alt="Top Languages" />
+  </a>
+</div>
 
-<!-- Top Languages -->
-<a href="https://github.com/Dienhandsome" title="Top Languages" class="mx-2">
-  <img width="434" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dienhandsome&layout=compact&theme=tokyonight&hide_border=false" 
-       alt="Top Languages" />
-</a>
 
 </div>
 
