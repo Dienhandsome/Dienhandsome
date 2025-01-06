@@ -18,16 +18,29 @@
 
 <!-- GitHub Stats Section -->
 <h2 class="text-center my-4">🔥 GitHub Stats 🔥</h2>
-<div class="d-flex justify-content-center mb-4">
-  <!-- Top Languages -->
-  <a href="#" title="Dienhandsome" class="mx-2">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dienhandsome&hide=javascript,python&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-  </a>
 
-  <!-- GitHub Stats -->
-  <a href="#" title="Dienhandsome" class="mx-2">
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=Dienhandsome&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  </a>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/Dienhandsome" title="Dienhandsome" class="mx-2">
+  <img width="434" 
+       src="https://github-readme-stats.vercel.app/api?username=Dienhandsome&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+       alt="GitHub Stats" />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/Dienhandsome" title="Dienhandsome" class="mx-2">
+  <img width="434" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Dienhandsome&theme=tokyonight&hide_border=false" 
+       alt="GitHub Streak Stats" />
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/Dienhandsome" title="Top Languages" class="mx-2">
+  <img width="434" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dienhandsome&layout=compact&theme=tokyonight&hide_border=false" 
+       alt="Top Languages" />
+</a>
+
 </div>
 
 
