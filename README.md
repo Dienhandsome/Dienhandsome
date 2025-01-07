@@ -62,14 +62,21 @@
 <div class="text-center">
   <ul class="list-unstyled">
     <li>
-      <strong>Facebook:</strong>
+      <strong><i class="fab fa-facebook"></i> </strong>
       <a href="https://web.facebook.com/nguyen.hoang.ien.544348" target="_blank">Nguyễn Hoàng Điền</a>
     </li>
     <li>
-      <strong>Email:</strong>
+      <strong><i class="fas fa-phone"></i> </strong>
+      <a href="tel:0862209606" target="_blank">0862209606</a>
+    </li>
+    <li>
+      <strong><i class="fas fa-envelope"></i> </strong>
       <a href="mailto:nguyen.hoang.ien.544348@gmail.com">nguyenhoangdien2003@gmail.com</a>
     </li>
   </ul>
 </div>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
 
 
